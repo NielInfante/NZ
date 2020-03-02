@@ -1,0 +1,21 @@
+
+
+
+
+/* For wrapping text around an image */
+
+.img_Text_left {
+ float: left;
+ padding: 0 10px 10px 10px;
+}
+
+.img_Text_right {
+ float: right;
+ padding: 10px 0 10px 10px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
