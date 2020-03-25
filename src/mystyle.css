@@ -19,3 +19,11 @@
   clear: both;
   display: table;
 }
+
+
+/* Format headers */
+
+h2 {
+  color: blue;
+  border-bottom: solid 1px;
+}
